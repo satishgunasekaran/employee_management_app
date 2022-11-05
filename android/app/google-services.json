@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385086121177",
+    "project_id": "employee-leave-managemen-44d3a",
+    "storage_bucket": "employee-leave-managemen-44d3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385086121177:android:10a570c9a92c81c84a0ac8",
+        "android_client_info": {
+          "package_name": "com.example.employee_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385086121177-rkq0v40n3v0m8rgdp972liddtlrmsuor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfNVwWnSL-jiuOH8PFoevPSFJVFz-21Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385086121177-rkq0v40n3v0m8rgdp972liddtlrmsuor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
